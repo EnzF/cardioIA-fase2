@@ -1,0 +1,15 @@
+*.csv
+*.tsv
+*.xls
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Permitir CSVs da base de conhecimento do CardioIA
+!knowledge_base/*.csv
+
+# Permitir futuros datasets da Fase 2
+!data/*.csv
