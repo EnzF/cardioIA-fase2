@@ -55,6 +55,7 @@ CardioAI/
 │   └── README.md
 └── tests/
 
+```
 ## 🗃 Base de conhecimento
 
 A pasta `knowledge_base` contém os arquivos utilizados pelo sistema para interpretar os relatos.
